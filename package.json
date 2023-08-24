@@ -1,0 +1,30 @@
+{
+  "name": "cal-sum-avg-mode-medium-range-and-more",
+  "version": "1.0.4",
+  "description": "Now, you can calculate the sum, average, mode, median, range, variance, and standard deviation for the given array of numbers.",
+  "main": "index.js",
+  "keywords": [
+    "sum",
+    "avg",
+    "average",
+    "mode",
+    "median",
+    "range",
+    "variance",
+    "standard deviation",
+    "calculate",
+    "cal",
+    "sum of",
+    "statistic",
+    "stats",
+    "measure"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chamara Madhushanka",
+  "license": "MIT",
+  "dependencies": {
+    "cal-sum-avg-mode-medium-range-and-more": "^1.0.0"
+  }
+}
